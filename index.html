@@ -20,7 +20,7 @@
   
   var url = "https://symeonn.github.io/grow-box-data/current_data.json"
   var json_obj = JSON.parse(Get(url));
-console.log("this is the author name: "+json_obj.value);
+console.log("this is the author name: "+json_obj);
   
   document.getElementById("temperature").innerHTML = json_obj.temperature
   document.getElementById("water_temperature").innerHTML = json_obj.water_temperature
