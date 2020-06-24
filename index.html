@@ -5,8 +5,9 @@
 <h2>My First Web Page</h2>
 <p>My First Paragraph.</p>
 
-<p id="demo"></p>
-
+<p id="temperature"></p>
+<p id="water_temperature"></p>
+  
 <script>
   function Get(yourUrl){
     var Httpreq = new XMLHttpRequest(); // a new request
@@ -18,11 +19,12 @@
 document.getElementById("demo").innerHTML = 5 + 7;
   
   
-  var url = "https://symeonn.github.io/github-pages-test/data.json"
+  var url = "https://symeonn.github.io/grow-box-data/current_data.json"
   var json_obj = JSON.parse(Get(url));
 console.log("this is the author name: "+json_obj.value);
   
-  document.getElementById("demo").innerHTML = json_obj.value
+  document.getElementById("temperature").innerHTML = json_obj.temperature
+  document.getElementById("water_temperature").innerHTML = json_obj.water_temperature
 </script>
 
 </body>
