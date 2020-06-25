@@ -5,6 +5,7 @@
 <h2>My First Web Page</h2>
 <p>My First Paragraph.</p>
 
+  <p id="datetime"></p>
 <p id="voc"></p>
 <p id="co2"></p>
   <p id="temperature"></p>
@@ -26,7 +27,8 @@
   var json_obj = JSON.parse(Get(url));
 console.log("this is the author name: "+json_obj);
   
-  document.getElementById("voc").innerHTML = json_obj.voc
+   document.getElementById("datetime").innerHTML = json_obj.datetime
+ document.getElementById("voc").innerHTML = json_obj.voc
   document.getElementById("co2").innerHTML = json_obj.co2
     document.getElementById("temperature").innerHTML = json_obj.temperature
   document.getElementById("water_temperature").innerHTML = json_obj.water_temperature
