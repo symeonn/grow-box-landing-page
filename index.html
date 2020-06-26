@@ -11,7 +11,8 @@
     <title>grow-box</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
     <link href="css/scrolling-nav.css" rel="stylesheet">
@@ -90,15 +91,48 @@
 
 <section id="logs">
     <div class="container">
-        <div class="row">
-            <div class="col-sm-12 mx-auto">
-                <h2>Logs</h2>
-                <p class="lead">TO DO</p>
+
+        <h2>Logs</h2>
+
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <a class="nav-item nav-link active" id="nav-mds" data-toggle="tab" href="#meters-data-save"
+                   role="tab" aria-controls="nav-home" aria-selected="true">Meters</a>
+                <a class="nav-item nav-link" id="nav-ds" data-toggle="tab" href="#data-save" role="tab"
+                   aria-controls="nav-profile" aria-selected="false">Data save</a>
+                <a class="nav-item nav-link" id="nav-tc" data-toggle="tab" href="#temperature-control"
+                   role="tab" aria-controls="nav-contact" aria-selected="false">Temperature control</a>
+                <a class="nav-item nav-link" id="nav-apc" data-toggle="tab" href="#air-pump-control" role="tab"
+                   aria-controls="nav-contact" aria-selected="false">Air pump control</a>
+                <a class="nav-item nav-link" id="nav-c" data-toggle="tab" href="#cron" role="tab"
+                   aria-controls="nav-contact" aria-selected="false">Cron</a>
+                <a class="nav-item nav-link" id="nav-ic" data-toggle="tab" href="#image-capture" role="tab"
+                   aria-controls="nav-contact" aria-selected="false">Image capture</a>
             </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade" id="meters-data-save" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <iframe src="https://symeonn.github.io/grow-box-data/gb_logs/meters_data_save.log"></iframe>
+            </div>
+            <div class="tab-pane fade" id="data-save" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <iframe src="https://symeonn.github.io/grow-box-data/gb_logs/data_save.log"></iframe>
+            </div>
+            <div class="tab-pane fade" id="temperature-control" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <iframe src="https://symeonn.github.io/grow-box-data/gb_logs/temperature_control.log"></iframe>
+            </div>
+            <div class="tab-pane fade show active" id="air-pump-control" role="tabpanel" aria-labelledby="nav-home-tab">
+                <iframe src="https://symeonn.github.io/grow-box-data/gb_logs/air_pump_control.log"></iframe>
+            </div>
+            <div class="tab-pane fade" id="cron" role="tabpanel" aria-labelledby="nav-profile-tab">
+                <iframe src="https://symeonn.github.io/grow-box-data/gb_logs/cron.log"></iframe>
+            </div>
+            <div class="tab-pane fade" id="image-capture" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <iframe src="https://symeonn.github.io/grow-box-data/gb_logs/image_capture.log"></iframe>
+            </div>
+
         </div>
     </div>
 </section>
-
 
 
 <!-- Footer -->
@@ -109,12 +143,17 @@
     <!-- /.container -->
 </footer>
 
-<!-- Bootstrap core JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
-<!-- Plugin JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+
 
 <!-- Custom JavaScript for this theme -->
 <script src="js/scrolling-nav.js"></script>
