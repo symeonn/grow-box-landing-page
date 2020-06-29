@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8ab3e52-ac1c-4127-baa5-8c8ac16b7c9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/grow-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grow-box.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b8ab3e52-ac1c-4127-baa5-8c8ac16b7c9e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593432167461</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+logo">
+      <created>1593434906861</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593434906861</updated>
+    </task>
+    <task id="LOCAL-00011" summary="+logo">
+      <created>1593435086830</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593435086830</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,13 +129,14 @@
     <MESSAGE value="primary color" />
     <MESSAGE value="units" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="+logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="+logo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593432166380">
+    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593435085910">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593432166380" />
+    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593435085910" />
     <state width="504" height="442" key="Diff.GoToChangePopup" timestamp="1593420355599">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
@@ -134,10 +145,18 @@
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
     <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog/111.0.2449.1440@111.0.2449.1440" timestamp="1593422927318" />
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593432168965">
+    <state x="1116" y="475" key="FileChooserDialogImpl" timestamp="1593434882122">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593432168965" />
+    <state x="1116" y="475" key="FileChooserDialogImpl/111.0.2449.1440@111.0.2449.1440" timestamp="1593434882122" />
+    <state x="1184" y="633" key="VCS.ChangelistChooser" timestamp="1593434893754">
+      <screen x="111" y="0" width="2449" height="1440" />
+    </state>
+    <state x="1184" y="633" key="VCS.ChangelistChooser/111.0.2449.1440@111.0.2449.1440" timestamp="1593434893754" />
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593435088413">
+      <screen x="111" y="0" width="2449" height="1440" />
+    </state>
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593435088413" />
     <state x="1136" y="632" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593432040748">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
