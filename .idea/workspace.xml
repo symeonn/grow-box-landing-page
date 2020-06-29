@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8ab3e52-ac1c-4127-baa5-8c8ac16b7c9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scrolling-nav.js" afterDir="false" />
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593196635269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+IPs&#10;+github links">
+      <created>1593416506181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593416506181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,16 +79,21 @@
     <MESSAGE value="init" />
     <MESSAGE value="+logs&#10;+links" />
     <MESSAGE value="+logs completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="+logs completed" />
+    <MESSAGE value="+IPs&#10;+github links" />
+    <option name="LAST_COMMIT_MESSAGE" value="+IPs&#10;+github links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593196633974">
+    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593416504969">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593196633974" />
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593196636746">
+    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593416504969" />
+    <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog" timestamp="1593417104456">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593196636746" />
+    <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog/111.0.2449.1440@111.0.2449.1440" timestamp="1593417104456" />
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593416507891">
+      <screen x="111" y="0" width="2449" height="1440" />
+    </state>
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593416507891" />
   </component>
 </project>

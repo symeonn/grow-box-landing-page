@@ -46,5 +46,5 @@
     document.getElementById("ph").innerHTML = json_obj.ph
     document.getElementById("ec").innerHTML = json_obj.ec
     document.getElementById("local_ip").innerHTML = json_obj.local_ip
-    document.getElementById("vpn_id").innerHTML = json_obj.vpn_id
+    document.getElementById("vpn_ip").innerHTML = json_obj.vpn_ip
 })(jQuery); // End of use strict
