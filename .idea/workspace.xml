@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593417289140</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="css">
+      <created>1593420378619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593420378619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,20 +94,25 @@
     <MESSAGE value="+logs completed" />
     <MESSAGE value="+IPs&#10;+github links" />
     <MESSAGE value="vpn_ip fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="vpn_ip fix" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593417288215">
+    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593420377373">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593417288215" />
-    <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog" timestamp="1593417104456">
+    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593420377373" />
+    <state width="504" height="442" key="Diff.GoToChangePopup" timestamp="1593420355599">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog/111.0.2449.1440@111.0.2449.1440" timestamp="1593417104456" />
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593417290986">
+    <state width="504" height="442" key="Diff.GoToChangePopup/111.0.2449.1440@111.0.2449.1440" timestamp="1593420355599" />
+    <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog" timestamp="1593420506644">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593417290986" />
+    <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog/111.0.2449.1440@111.0.2449.1440" timestamp="1593420506644" />
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593420381059">
+      <screen x="111" y="0" width="2449" height="1440" />
+    </state>
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593420381059" />
   </component>
 </project>
