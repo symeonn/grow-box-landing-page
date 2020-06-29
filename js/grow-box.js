@@ -40,6 +40,7 @@
     document.getElementById("datetime").innerHTML = json_obj.datetime
     document.getElementById("voc").innerHTML = json_obj.voc
     document.getElementById("co2").innerHTML = json_obj.co2
+    document.getElementById("humidity").innerHTML = json_obj.humidity.toFixed(2) + ' %'
     document.getElementById("temperature").innerHTML = json_obj.temperature + ' °C'
     document.getElementById("water_temperature").innerHTML = json_obj.water_temperature + ' °C'
     document.getElementById("ph").innerHTML = json_obj.ph
