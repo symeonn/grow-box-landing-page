@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8ab3e52-ac1c-4127-baa5-8c8ac16b7c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grow-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grow-box.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scrolling-nav.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593431857930</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refactor">
+      <created>1593432167461</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593432167461</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,13 +118,14 @@
     <MESSAGE value="css" />
     <MESSAGE value="primary color" />
     <MESSAGE value="units" />
-    <option name="LAST_COMMIT_MESSAGE" value="units" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593431856845">
+    <state x="926" y="386" key="CommitChangelistDialog2" timestamp="1593432166380">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593431856845" />
+    <state x="926" y="386" key="CommitChangelistDialog2/111.0.2449.1440@111.0.2449.1440" timestamp="1593432166380" />
     <state width="504" height="442" key="Diff.GoToChangePopup" timestamp="1593420355599">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
@@ -126,10 +134,10 @@
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
     <state x="204" y="93" width="2263" height="1255" key="DiffContextDialog/111.0.2449.1440@111.0.2449.1440" timestamp="1593422927318" />
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593431861098">
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2" timestamp="1593432168965">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
-    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593431861098" />
+    <state x="928" y="453" key="Vcs.Push.Dialog.v2/111.0.2449.1440@111.0.2449.1440" timestamp="1593432168965" />
     <state x="1136" y="632" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593432040748">
       <screen x="111" y="0" width="2449" height="1440" />
     </state>
