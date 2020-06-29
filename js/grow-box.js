@@ -36,7 +36,6 @@
 
     var url = "https://symeonn.github.io/grow-box-data/current_data.json"
     var json_obj = JSON.parse(getData(url));
-    console.log("this is the author name: " + json_obj);
 
     document.getElementById("datetime").innerHTML = json_obj.datetime
     document.getElementById("voc").innerHTML = json_obj.voc
