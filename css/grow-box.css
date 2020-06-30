@@ -19,17 +19,17 @@ section {
     padding: 20px 0;
 }
 
-#current-data .data-value {
+#current-state .data-value {
     font-size: 28px;
 
 }
 
-#current-data .data-name {
+#current-state .data-name {
     text-align: right;
     align-self: center;
 }
 
-#current-data .line {
+#current-state .line {
     margin-bottom: 10px;
 }
 
@@ -43,7 +43,7 @@ section {
 }
 
 @media (max-width: 576px) {
-    #current-data .data-name {
+    #current-state .data-name {
         text-align: left;
         align-self: center;
         border-top: 1px dashed brown;
